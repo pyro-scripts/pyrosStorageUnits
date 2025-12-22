@@ -4,7 +4,7 @@ Showcase: https://youtu.be/R7MGx10wrjg<br>
 Download: [GitHub - pyro-scripts/pyrosStorageUnits](https://github.com/pyro-scripts/pyrosStorageUnits/releases/latest)<br>
 Github Page: https://github.com/pyro-scripts<br>
 <br>
----<br>
+
 ### Multiple Locations Supported<br>
 - **2 Preconfigured Locations:** Strawberry (Under Olympic Fwy) & Bank on Route 68<br>
 - **Easy to read configuration**<br>
@@ -14,7 +14,7 @@ Github Page: https://github.com/pyro-scripts<br>
 ### Compatibility<br>
 - **Notifications, Inventory System and Target System compatible with QB-Core & OX**<br>
 -  **Compatible with *pyrosNotifs* for Notifications** [GitHub - pyro-scripts/pyrosNotifs](https://github.com/pyro-scripts/pyrosNotifs/releases/latest)<br>
----<br>
+
 # 📋 Installation Guide<br>
 ### 1. Database<br>
 Execute the provided ***pyrosStorageUnits.sql*** file to create the required table:<br>
