@@ -1,7 +1,7 @@
 # pyrosStorageUnits - Storage Unit System for QB-Core<br>
 <br>
 Showcase: https://youtu.be/R7MGx10wrjg<br>
-Download: [GitHub - pyro-scripts/pyrosStorageUnits](https://github.com/pyro-scripts/pyrosStorageUnits/releases/latest)<br>
+Download: [GitHub - pyro-scripts/pyrosStorageUnits](https://github.com/pyro-scripts/pyrosStorageUnits/releases/latest)
 Github Page: https://github.com/pyro-scripts<br>
 <br>
 
