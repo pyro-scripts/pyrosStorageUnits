@@ -1,7 +1,7 @@
 # pyrosStorageUnits - Storage Unit System for QB-Core<br>
 <br>
 Showcase: https://youtu.be/R7MGx10wrjg<br>
-Download: [GitHub - pyro-scripts/pyrosStorageUnits](https://github.com/pyro-scripts/pyrosStorageUnits/releases/latest)
+Download: https://github.com/pyro-scripts/pyrosStorageUnits/releases/latest)<br>
 Github Page: https://github.com/pyro-scripts<br>
 <br>
 
@@ -13,7 +13,7 @@ Github Page: https://github.com/pyro-scripts<br>
 <br>
 ### Compatibility<br>
 - **Notifications, Inventory System and Target System compatible with QB-Core & OX**<br>
--  **Compatible with *pyrosNotifs* for Notifications** [GitHub - pyro-scripts/pyrosNotifs](https://github.com/pyro-scripts/pyrosNotifs/releases/latest)<br>
+-  **Compatible with *pyrosNotifs* for Notifications** https://github.com/pyro-scripts/pyrosNotifs/releases/latest<br>
 
 # 📋 Installation Guide<br>
 ### 1. Database<br>
